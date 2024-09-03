@@ -10,13 +10,17 @@
     flex-direction: column;
 
     cursor: pointer;
+
+    transition: padding .5s;
 }
 
 .product-card:hover{
     padding: .5rem;
-    transition: .5s;
+   
 }
 
 .product-card > img {
     width: 10rem;
+    border-radius: 10px;
+
 }
