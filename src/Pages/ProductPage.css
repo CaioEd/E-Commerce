@@ -18,6 +18,22 @@
 .product-description {
     width: 45%; /* Ajusta a largura da coluna direita */
     text-align: center; /* Alinha o texto à direita */
+
+    margin: auto;
+}
+
+.product-description > button {
+    width: 35%;
+    margin: 0 auto;
+
+    background-color: #747bff;
+    color: white;
+    font-weight: bold;
+}
+
+.product-description > button:hover{
+    cursor: pointer;
+    filter: brightness(1.2);
 }
 
 .product-title-img > h2{

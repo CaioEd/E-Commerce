@@ -17,10 +17,10 @@ const ProductPage = () => {
             <div className="product-description">
                 <h3>Descrição do produto:</h3>
                 <p>Lorem ipsum dolor sit amet consectetur
-                    adipisicing elit. Nostrum reprehenderit
+                    adipisicing elit. <br /> Nostrum reprehenderit
                     rem maxime quidem amet in ullam blanditiis.
                 </p>
-                <button>Comprar</button>
+                <button>Adicionar ao carrinho</button>
             </div>
         </div>
         
