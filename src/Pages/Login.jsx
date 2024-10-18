@@ -4,7 +4,6 @@ import './Login.css'
 
 import Header from '../components/Header'
 import Products from '../components/Products'
-import Footer from '../components/Footer'
 
 const Login = () => {
   return (
@@ -25,7 +24,6 @@ const Login = () => {
             </span>
         </div>
 
-        <Footer/>
     </>
   )
 }

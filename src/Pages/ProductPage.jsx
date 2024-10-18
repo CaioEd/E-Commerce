@@ -1,7 +1,6 @@
 import './ProductPage.css'
 
 import Header from '../components/Header'
-import Footer from '../components/Footer'
 
 const ProductPage = () => {
   return (
@@ -24,7 +23,6 @@ const ProductPage = () => {
             </div>
         </div>
         
-        <Footer/>
     </>
   )
 }

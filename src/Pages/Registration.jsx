@@ -4,7 +4,6 @@ import './Registration.css'
 
 import Header from '../components/Header'
 import Products from '../components/Products'
-import Footer from '../components/Footer'
 
 const Registration = () => {
   return (
@@ -27,7 +26,6 @@ const Registration = () => {
           </span>
         </div>
 
-      <Footer/>
     </>
   )
 }
